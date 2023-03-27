@@ -1,0 +1,11 @@
+.ClickMeFirst, .ClickMeInstead {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.ClickMeFirst {
+    background-color: black;
+    color: white;
+}
+
+.ClickMeInstead {background-color: yellow;}
